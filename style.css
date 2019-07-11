@@ -1,0 +1,11 @@
+* {box-sizing: border-box;}
+
+
+
+.box {
+    width: 40%;
+    height: auto;
+    text-align: center;
+    background: #D49A6A;
+    border: 3px solid #FFD1AA
+}
